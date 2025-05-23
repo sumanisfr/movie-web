@@ -15,19 +15,12 @@ A responsive movie website built with HTML, CSS and JavaScript that displays tre
 - HTML5
 - CSS3 
 - JavaScript
-- TMDb API for movie data
-
 ## Getting Started
 
 1. Clone this repository
-2. Get an API key from [TMDb](https://www.themoviedb.org/)
+2. Get an API key from [TMDb]
 3. Replace API key in the JavaScript file
 4. Open index.html in your browser
-
-## Screenshots
-
-*Add screenshots here*
-
 
 
 ## License
